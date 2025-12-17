@@ -1,5 +1,5 @@
 {
-  "name": "copy-of-eduvoice-ai",
+  "name": "eduvoice-ai",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -12,6 +12,7 @@
     "electron:build": "vite build && electron-builder"
   },
   "dependencies": {
+    "@capacitor/android": "^8.0.0",
     "@capacitor/core": "^8.0.0",
     "@google/genai": "^1.33.0",
     "lucide-react": "^0.561.0",
