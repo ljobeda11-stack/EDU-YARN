@@ -12,6 +12,8 @@
     "electron:build": "vite build && electron-builder"
   },
   "dependencies": {
+    "@capacitor-community/speech-recognition": "^7.0.1",
+    "@capacitor-community/text-to-speech": "^6.1.0",
     "@capacitor/android": "^8.0.0",
     "@capacitor/core": "^8.0.0",
     "@google/genai": "^1.33.0",
