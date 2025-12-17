@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EduVoice AI",
+  "description": "An AI-powered voice assistant and content creator for teachers, featuring real-time lesson brainstorming and text-to-speech generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
